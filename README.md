@@ -1,4 +1,4 @@
-# OComputer Networks
+# Computer Networks
 
 ## :information_source: Why does this exist?
 This repo contains a collection of programs I and other contributors wrote during the Computer Networks course.
